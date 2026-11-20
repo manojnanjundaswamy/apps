@@ -30,7 +30,7 @@ nav a:hover { color: var(--ink); }
 .cta { display: inline-block; background: var(--ink); color: var(--bg); padding: 12px 22px; border-radius: 999px; text-decoration: none; font-weight: 600; }
 .list { padding-left: 20px; }
 .list li { margin: 6px 0; }
-.doc { padding: 40px 0 56px; }
+.doc { padding: 40px 16px 56px; }
 .doc h1 { font-size: clamp(28px, 5vw, 40px); margin: 0 0 6px; }
 .doc h2 { font-size: 21px; margin: 32px 0 8px; }
 .doc .meta { color: var(--muted); margin: 0 0 24px; }
